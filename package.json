@@ -1,0 +1,12 @@
+{
+  "name": "limit-fps",
+  "type": "module",
+  "description": "Addon for Construct 3",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "c3fo build",
+    "dev": "c3fo build --dev",
+    "doc": "c3fo doc"
+  },
+  "license": "ISC"
+}

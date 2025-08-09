@@ -1,0 +1,15 @@
+{
+	"include": [
+    "./c3.config.ts",
+		"./src/**/*.ts",
+		"./node_modules/@c3framework/core/dist/**/*.ts"
+	],
+	"compilerOptions": {
+		"target": "ES2021",
+		"module": "ES2022",
+		"forceConsistentCasingInFileNames": true,
+		"strict": true,
+		"moduleResolution": "bundler",
+		"experimentalDecorators": true
+	}
+}

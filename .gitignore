@@ -1,0 +1,7 @@
+ts-defs
+node_modules/
+dist/
+export/
+package-lock.json
+*.lock
+*.log
