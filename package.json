@@ -8,5 +8,8 @@
     "dev": "c3fo build --dev",
     "doc": "c3fo doc"
   },
-  "license": "ISC"
+  "license": "MIT",
+  "dependencies": {
+    "@c3framework/core": "^1.0.5"
+  }
 }
